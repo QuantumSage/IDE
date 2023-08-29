@@ -1,8 +1,5 @@
-# Getting Started with Create React App
+# This is just the front end, the back end is still WIP so hold tight while I get this done
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## This is just the front end, the back end is still WIP so hold tight while I get this done
 
 ## Available Scripts
 
